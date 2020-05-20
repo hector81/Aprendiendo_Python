@@ -1,0 +1,6 @@
+4. Cree una clase llamada Punto. Tendrá como atributos las coordenadas x0 e y0 del origen (0, 0) por defecto, y las coordenadas x e y del punto en cuestión. Los métodos serán: distancia y muestra_punto. El primero devolverá la distancia del punto a su origen. El segundo imprimirá por pantalla el mensaje de texto: (x,y), donde x e y son las coordenadas del punto. Ejecute un programa que cree dos puntos con origen en (0,0) y muestre por pantalla el que tenga una distancia menor al centro:
+
+distancia = math.sqrt((x - x0) ** 2 + (y - y0) ** 2)
+
+
+Tendremos que importar el modulo math, perteneciente a la librería estándar de Python

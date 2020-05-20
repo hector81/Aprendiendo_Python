@@ -1,0 +1,11 @@
+3. Cree una clase llamada Persona. Contendrá el nombre, DNI, dirección, teléfono y e-mail (este último opcional) de un individuo. Por método tendrá mostrar que imprimirá por pantalla los datos de la persona. Utilice esa clase para crear una lista de personas y mostrar cada una de ellas. Los datos de cada persona están en el fichero . El formato de este fichero es una linea con los datos de cada persona. Están separados por ';'. Contiene información por este orden: nombre;DNI;dirección;teléfono;e-mail;saldo
+
+
+
+Manuel Miranda;34223599G;C/ Alcalá, 23, 2ºA;91334555;mmiranda@yahoo.com;2348,34
+
+Pedro Molina;23343112H;C/ del Retiro, 234, 1ºF;;;58763,7
+
+Rosa Campos;12776455Y;C/ Toreros, 99, bajo;988343322;rosac@hotmail.com;508,45
+
+Luisa Merino Reyes;64553875T;Av. Constitución, 44,3ºF;988355100;lumere@gmail.es;13225,89

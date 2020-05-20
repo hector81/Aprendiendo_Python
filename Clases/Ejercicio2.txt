@@ -1,0 +1,1 @@
+2. Cree una clase llamada Fichero. Esa clase tendrá un atributo llamado ruta y otro llamado texto. Implemente dos métodos: leer_fichero, que leerá el fichero dado por el atributo ruta y guardará su contenido en el atributo texto. mostrar_fichero, que imprimirá por pantalla el texto del fichero leído. Use su nueva clase para leer el fichero que contiene al ejercicio 1.
