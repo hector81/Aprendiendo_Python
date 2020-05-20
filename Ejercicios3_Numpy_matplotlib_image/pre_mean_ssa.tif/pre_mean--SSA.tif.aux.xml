@@ -1,0 +1,26 @@
+<PAMDataset>
+  <PAMRasterBand band="1">
+    <CategoryNames>
+      <Category>under 65</Category>
+      <Category>65 - 146</Category>
+      <Category>146 - 234</Category>
+      <Category>234 - 328</Category>
+      <Category>328 - 427</Category>
+      <Category>427 - 537</Category>
+      <Category>537 - 657</Category>
+      <Category>657 - 778</Category>
+      <Category>778 - 897</Category>
+      <Category>897 - 1009</Category>
+      <Category>1009 - 1114</Category>
+      <Category>1114 - 1222</Category>
+      <Category>1222 - 1341</Category>
+      <Category>1341 - 1469</Category>
+      <Category>1469 - 1596</Category>
+      <Category>1596 - 1746</Category>
+      <Category>1746 - 1953</Category>
+      <Category>1953 - 2232</Category>
+      <Category>2232 - 2569</Category>
+      <Category>over 2569</Category>
+    </CategoryNames>
+  </PAMRasterBand>
+</PAMDataset>
