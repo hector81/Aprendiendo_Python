@@ -1,0 +1,5 @@
+# archivo = open("lista_muni.txt", "r")
+archivo = open("lista_muni.txt", encoding="utf8")
+linea = archivo.read()
+print(linea)
+archivo.close()

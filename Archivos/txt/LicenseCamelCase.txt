@@ -1,0 +1,37 @@
+Línea 0: Note
+Línea 1: ----
+Línea 2: 
+Línea 3: Winpython_Components_Are_Distributed_As_They_Were_Received_From_
+Línea 4: Their_Copyright_Holder,_Under_Their_Own_Copyright_And/or_License,_
+Línea 5: And_Without_Any_Linking_With_Each_Other.
+Línea 6: 
+Línea 7: Winpython_Software_Collection_(i.e._The_Collection_Of_Software,_
+Línea 8: Libraries_And_Documents)_Is_Licensed_Under_The_Terms_Of_The_
+Línea 9: Following_License_Agreement.
+Línea 10: 
+Línea 11: 
+Línea 12: Winpython_License_Agreement_(mit_License)
+Línea 13: -----------------------------------------
+Línea 14: 
+Línea 15: Copyright_(c)_2012_Pierre_Raybaut,_2016+_Winpython_Team_
+Línea 16: 
+Línea 17: Permission_Is_Hereby_Granted,_Free_Of_Charge,_To_Any_Person
+Línea 18: Obtaining_A_Copy_Of_This_Software_And_Associated_Documentation
+Línea 19: Files_(the_"software"),_To_Deal_In_The_Software_Without
+Línea 20: Restriction,_Including_Without_Limitation_The_Rights_To_Use,
+Línea 21: Copy,_Modify,_Merge,_Publish,_Distribute,_Sublicense,_And/or_Sell
+Línea 22: Copies_Of_The_Software,_And_To_Permit_Persons_To_Whom_The
+Línea 23: Software_Is_Furnished_To_Do_So,_Subject_To_The_Following
+Línea 24: Conditions:
+Línea 25: 
+Línea 26: The_Above_Copyright_Notice_And_This_Permission_Notice_Shall_Be
+Línea 27: Included_In_All_Copies_Or_Substantial_Portions_Of_The_Software.
+Línea 28: 
+Línea 29: The_Software_Is_Provided_"as_Is",_Without_Warranty_Of_Any_Kind,
+Línea 30: Express_Or_Implied,_Including_But_Not_Limited_To_The_Warranties
+Línea 31: Of_Merchantability,_Fitness_For_A_Particular_Purpose_And
+Línea 32: Noninfringement._In_No_Event_Shall_The_Authors_Or_Copyright
+Línea 33: Holders_Be_Liable_For_Any_Claim,_Damages_Or_Other_Liability,
+Línea 34: Whether_In_An_Action_Of_Contract,_Tort_Or_Otherwise,_Arising
+Línea 35: From,_Out_Of_Or_In_Connection_With_The_Software_Or_The_Use_Or
+Línea 36: Other_Dealings_In_The_Software.

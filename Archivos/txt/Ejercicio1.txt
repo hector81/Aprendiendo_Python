@@ -1,0 +1,15 @@
+EJERCICIOS Manipulación de ficheros utilizando el intérprete Fichero "datos_ficheros" 
+********************************************************
+1. ¿La longitud en caracteres de la primera línea? 
+2. El número de líneas del fichero 
+3. ¿Cuántos números contiene la primera línea del fichero? 
+4. Guardar la suma de los números de la primera línea en otro fichero
+********************************************************
+1. Guardar en otro fichero de texto una línea con la operación de suma que incluya todos los operandos y el resultado, e.g: 24 + 34 + 2 = 60 
+2. Añadir la línea [1, 2 ... 10] a "datos_fichero" (¡no sobreescribas!) 
+3. El producto de los números de la última línea 
+4. El número de líneas de "con_comentarios" si ignoramos aquellas comentadas (las que empiezan por #) 
+5. La suma de todos los números impares del document
+********************************************************
+
+
