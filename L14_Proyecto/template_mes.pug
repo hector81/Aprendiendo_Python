@@ -1,0 +1,12 @@
+#sidebar: p Texto en una barra lateral.
+
+h1 {{ title }}
+
+#sidebar: p pandas + pdf_reports = Informe mes
+
+h3 Los datos
+
+{{ pdf_tools.dataframe_to_html(dataframe) }}
+
+.ui.piled.segment
+  p FINAL INFORME MENSUAL.
