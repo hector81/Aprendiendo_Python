@@ -1,0 +1,14 @@
+resultado1 = True and False
+print("True and False = " , resultado1)
+resultado2 = (True and False) or True
+print("(True and False) or True = " , resultado2)
+resultado3 = True and True or False
+print("True and True or False = " , resultado3)
+resultado4 = False and True or True
+print("False and True or True = " , resultado4)
+resultado5 = False and False or True
+print("False and False or True = " , resultado5)
+resultado6 = not True
+print("not True = " , resultado6)
+resultado6 = not False
+print("not False = " , resultado6)
